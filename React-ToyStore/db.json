@@ -1,0 +1,55 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Toy Car",
+      "price": 9.99,
+      "image": "https://example.com/toycar.jpg",
+      "category": "Cars"
+    },
+    {
+      "id": "2",
+      "name": "Doll",
+      "price": 15.99,
+      "image": "https://example.com/doll.jpg",
+      "category": "Dolls"
+    },
+    {
+      "id": "3",
+      "name": "Building Blocks Set",
+      "price": 24.99,
+      "image": "https://example.com/buildingblocks.jpg",
+      "category": "Building Sets"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "name": "Building Blocks Set",
+      "price": 24.99,
+      "image": "https://example.com/buildingblocks.jpg",
+      "category": "Building Sets"
+    },
+    {
+      "id": "2",
+      "name": "Doll",
+      "price": 15.99,
+      "image": "https://example.com/doll.jpg",
+      "category": "Dolls"
+    },
+    {
+      "id": "2",
+      "name": "Doll",
+      "price": 15.99,
+      "image": "https://example.com/doll.jpg",
+      "category": "Dolls"
+    },
+    {
+      "id": "1",
+      "name": "Toy Car",
+      "price": 9.99,
+      "image": "https://example.com/toycar.jpg",
+      "category": "Cars"
+    }
+  ]
+}
